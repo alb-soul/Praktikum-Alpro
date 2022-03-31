@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 class Biaya {
     friend ostream& operator << (ostream&, const Biaya&);
     friend istream& operator >> (istream&, Biaya&);
