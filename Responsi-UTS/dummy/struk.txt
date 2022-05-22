@@ -1,0 +1,21 @@
+=========================================
+		STRUK TRANSAKSI ANDA
+=========================================
+Nama          : Azizah Rosyida
+Alamat        : DIY
+Ekspedisi     : J&E
+-----------------------------------------
+  Nama Barang         : Pepsi
+  Harga               : 10000
+  Jumlah              : 2
+-----------------------------------------
+-----------------------------------------
+  Nama Barang         : Kemeja
+  Harga               : 70000
+  Jumlah              : 1
+-----------------------------------------
+
+Harga Total      : 90000
+Diskon           : 0.050000
+Total Pembayaran : 88500
+Sisa Saldo       : 1111500

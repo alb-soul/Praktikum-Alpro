@@ -1,0 +1,21 @@
+=========================================
+		STRUK TRANSAKSI ANDA
+=========================================
+Nama          : Azizah Rosyida
+Alamat        : Yogyakarta
+Ekspedisi     : Anteraja
+-----------------------------------------
+  Nama Barang         : Bedak
+  Harga               : 10000
+  Jumlah              : 1
+-----------------------------------------
+-----------------------------------------
+  Nama Barang         : Sprite
+  Harga               : 8000
+  Jumlah              : 2
+-----------------------------------------
+
+Harga Total      : 26000
+Diskon           : 0.800000
+Total Pembayaran : 8200
+Sisa Saldo       : 11991800
